@@ -2,6 +2,7 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Anton Khozhylo",
   "description": "The project that help me to understand node.js",
+  "keywords": ["freecodecamp", "javascript", "node.js"],
   "dependencies": {
     "express": "^4.14.0"
   },
@@ -15,6 +16,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/AntonKhozhylo/boilerplate-npm.git"
-  },
-  "keywords": ["freecodecamp", "javascript", "node.js"]
+  }
 }
