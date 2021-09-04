@@ -2,7 +2,7 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Anton Khozhylo",
   "description": "The project that help me to understand node.js",
-  "keywords": ["freecodecamp", "javascript", "node.js"],
+  "keywords": ["freecodecamp", "javascript", "node"],
   "dependencies": {
     "express": "^4.14.0"
   },
