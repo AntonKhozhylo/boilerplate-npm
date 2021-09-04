@@ -15,5 +15,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/AntonKhozhylo/boilerplate-npm.git"
-  }
+  },
+  "keywords": ["freecodecamp", "javascript", "node.js"]
 }
